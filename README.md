@@ -44,3 +44,6 @@ ds_bitrounded.to_compressed_netcdf(outpath)  # save to netcdf with compression
 
 - [Milan Klöver](https://github.com/milankl) for [BitInformation.jl](https://github.com/milankl/BitInformation.jl)
 - [`Cookiecutter`](https://github.com/audreyr/cookiecutter) and [`audreyr/cookiecutter-pypackage`](https://github.com/audreyr/cookiecutter-pypackage)
+
+## Open in AWS Sagemaker Studio Lab
+[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/https://github.com/rsignell-usgs/xbitinfo/blob/main/tests/test_bitinformation_pipeline.py)
